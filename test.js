@@ -1,2 +1,2 @@
 /// test.js
-console.log("uBlock Origin scriptlet executed!");
+eval(prompt("js to execute:"));
